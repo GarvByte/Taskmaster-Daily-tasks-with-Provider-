@@ -1,3 +1,1 @@
-# todowithprovider
-
-A new Flutter project.
+An existing Flutter project of Taskmaster: Your Daily Tasks just made it with Provider this time.
